@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab2</title>
+</head>
+<body>
+   <h1>The Early History of Motion Pictures</h1> 
+   <h2>The First years of the media</h2>
+   <p><strong>Since motion pictures were invented, audiences have loved how they tell stories.</strong> Movies enabled people to travel the world vicariously,
+     and experience tragedy, love and nearly every other emotion. Movies spread quickly, making them one of the most accessible and beloved forms of entertainment in the world.</p>
+     <h3>Setting Photography in Motion</h3>
+     <p>Photography became a part of public life in the mid-19th century, <b>especially during the Civil War,</b> when photographers documented American battlefields for the first time. Experimenting with ways to exhibit photographs,
+         several inventors came up with a simple toy that made it possible for a series of pictures to be viewed in rapid succession,
+          creating the illusion of motion. It was called a zoetrope.</p>
+          <h4>A New Art Form</h4>
+          <p>While the first films were of commonplace occurrences — trains approaching, people dancing, and animals playing — filmmakers soon started to incorporate story lines and music into their works. Between the years of 1890 and 1927,
+             thousands of silent films were produced, with an ever increasing sophistication of story line and technical craftsmanship.</p>
+             <img src="pickford-history-horse_1878.jpg__2000x1240_q85_crop_subsampling-2_upscale.jpg" alt="Picture" width="600" align="right">
+
+             <h4>Resources</h4>
+
+             <ul>
+
+                <li><a href="https://www.pbs.org/wgbh/americanexperience/features/pickford-early-history-motion-pictures/">pbs</a></li>
+                <li><a href="https://www.wikipedia.org/">Wikipedia</a></li>
+                <li><a href="https://www.imdb.com/chart/top/">IMDB</a></li>
+
+             </ul>
+
+             <h4>Best Movies</h4>
+
+             <table border="1">
+                <tr>
+                    <th>Movies</th>
+                    <th>Rating</th>
+                </tr>
+                <tr>
+                    <td><p>The Shawshank Redemption</p></td>
+                    <td><p>9.3</p></td>
+
+                </tr>
+                <tr>
+                    <td><p>The GodFather</p></td>
+                    <td><p>9.2</p></td>
+
+                </tr>
+                <tr>
+                    <td><p>The Dark Knight</p></td>
+                    <td><p>9.0</p></td>
+
+                </tr>
+                <tr>
+                    <td><p>The Godfather Part II</p></td>
+                    <td><p>9.0</p></td>
+
+                </tr>
+               
+             </table>
+
+             <p>These Movies and their rating from <a href="https://www.imdb.com/chart/top/">IMDB</a></p>
+
+             
+
+</body>
+</html>
